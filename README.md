@@ -2,20 +2,23 @@ This project was bootstrapped with [Create Next App](https://github.com/segmenti
 
 Find the most recent version of this guide at [here](https://github.com/segmentio/create-next-app/blob/master/lib/templates/default/README.md). And check out [Next.js repo](https://github.com/zeit/next.js) for the most up-to-date info.
 
-## Table of Contents
+## Table of Contents1
 
+- [Table of Contents1](#table-of-contents1)
 - [Questions? Feedback?](#questions-feedback)
 - [Folder Structure](#folder-structure)
 - [Available Scripts](#available-scripts)
-  - [npm run dev](#npm-run-dev)
-  - [npm run build](#npm-run-build)
-  - [npm run start](#npm-run-start)
+  - [`npm run dev`](#npm-run-dev)
+  - [`npm run build`](#npm-run-build)
+  - [`npm run start`](#npm-run-start)
 - [Using CSS](#using-css)
 - [Adding Components](#adding-components)
+  - [`./components/simple.js`](#componentssimplejs)
+  - [`./components/complex.js`](#componentscomplexjs)
 - [Fetching Data](#fetching-data)
+  - [`./pages/stars.js`](#pagesstarsjs)
 - [Custom Server](#custom-server)
 - [Syntax Highlighting](#syntax-highlighting)
-- [Using the `static` Folder](#using-the-static-folder)
 - [Deploy to Now](#deploy-to-now)
 - [Something Missing?](#something-missing)
 
